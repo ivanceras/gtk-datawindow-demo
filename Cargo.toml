@@ -1,0 +1,9 @@
+[package]
+name = "gtk-datawindow-demo"
+version = "0.1.0"
+authors = ["Jovansonlee Cesar <ivanceras@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+gtk = "0.9"
+glib = "0.10"
